@@ -1,0 +1,11 @@
+# Build Config
+
+This repo stores referenceable build configuration to be used with:
+
+*Tools*:
+* Batect
+
+*Services:*
+* Gitlab CI
+* Jenkins Pipelines
+
